@@ -1,0 +1,54 @@
+repo_name: dzienisz/PHP-Database-manager
+report_id: d065407ca57b155b47b35f00fb625117
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-01T21:02:07+00:00'
+requested_by: dzienisz
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/dzienisz/PHP-Database-manager
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/dzienisz/PHP-Database-manager
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/dzienisz/PHP-Database-manager/blob/master/database.sql
+  detection_source: database.sql
+  last_updated_by: Kamil Dzieniszewski
+  last_updated_on: 2018-02-04 14:05:46.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dzienisz/PHP-Database-manager
+  detection_source: Repo Metadata
